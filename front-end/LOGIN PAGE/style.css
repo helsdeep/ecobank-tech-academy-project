@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  width: 1440px;
+  height: 1024px;
+  font-family: 'Inter';
+  font-style: normal;
+  background: #F5F5F5;
+  position: absolute;
+
+}
+
+#img {
+  position: absolute;
+  width: 317px;
+  height: 154px;
+  left: 44px;
+  top: 23px;
+}
+
+#img2 {
+  position: absolute;
+  width: 646px;
+  height: 666px;
+  left: 745px;
+  top: 206px;
+  opacity: 1.5;
+}
+
+.img5 {
+
+  position: absolute;
+  left: 1323px;
+  right: 8.33%;
+  top: 900px;
+
+
+
+}
+
+#downloadApp {
+  position: absolute;
+  width: 500px;
+  height: 29px;
+  left: 69px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #23557F;
+  margin-top: 250px;
+
+}
+
+#openAccount {
+  position: absolute;
+  width: 350px;
+  height: 70px;
+  left: 1034px;
+  top: 65px;
+  background: #4F7799;
+  border-radius: 15px;
+}
+
+.form {
+  position: absolute;
+  width: 121px;
+  height: 29px;
+  left: 47px;
+  top: 334px;
+
+}
+
+.user {
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #23557F;
+
+}
+
+#username {
+  box-sizing: border-box;
+  width: 314px;
+  height: 52px;
+  left: 64px;
+  top: 280px;
+  margin-top: -60px;
+  background: #F5F5F5;
+  mix-blend-mode: normal;
+
+  font-size: 20pt;
+  border-radius: 10px;
+
+}
+
+.pass {
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #23557F;
+
+}
+
+#password {
+  box-sizing: border-box;
+  width: 314px;
+  height: 52px;
+  left: 64px;
+  top: 300px;
+  margin-top: -60px;
+  background: #F5F5F5;
+  mix-blend-mode: normal;
+  border-radius: 10px;
+  font-size: 20pt;
+}
+
+#forgetPassword {
+  width: 200px;
+  display: flex;
+  position: absolute;
+  top: 270px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #123F82;
+  left: 55px;
+
+}
+
+#newUser {
+  width: 191px;
+  display: flex;
+  position: absolute;
+  top: 330px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #123F82;
+  left: 40px;
+}
+
+#login {
+  font-family: 'Inter';
+  font-style: normal;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+}
+
+.log {
+  top: 400px;
+  border: none;
+  width: 282px;
+  height: 51px;
+  left: 16px;
+  background: #23557F;
+  border-radius: 10px;
+  position: absolute;
+}
+
+.openAcc {
+  font-family: 'Inter';
+  font-style: normal;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  border: none;
+}

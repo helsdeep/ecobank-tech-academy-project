@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 1440px;
+    height: 1024px;
+    font-family: 'Inter';
+    font-style: normal;
+    background: #FFFFFF;
+    position: absolute;
+
+}
+
+.containerOne {
+
+    position: absolute;
+    width: 1440px;
+    height: 441px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    background: #23557F;
+    border-radius: 0px;
+}
+
+.containerTwo {
+    box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.04);
+    position: absolute;
+    width: 734px;
+    height: 702px;
+    left: 348px;
+    top: 161px;
+    display: flex;
+    background: #E5E5E5;
+    border-radius: 10px;
+}
+
+#image {
+    display: flex;
+    position: absolute;
+    width: 330px;
+    height: 161px;
+    left: 196px;
+    top: 22px;
+}
+
+.forgotPassword {
+    position: absolute;
+    width: 271px;
+    height: 36px;
+    left: 221px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    top: 220px;
+    color: #23557F;
+}
+
+.email {
+    color: #23557F;
+    position: absolute;
+    width: 648px;
+    height: 95px;
+    left: 60px;
+    top: 300px;
+    margin-right: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    max-width: 80%;
+
+}
+
+.passwordRange {
+    display: flex;
+    position: absolute;
+    width: 607.53px;
+    height: 72.7px;
+    left: -2px;
+    top: 93.08px;
+    right: 64.39px;
+    background: #FFFEFE;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+#emailaddress {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 124.92px;
+    top: 21.92px;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 23px;
+
+}
+
+#icon {
+    position: absolute;
+    width: 48px;
+    height: 43px;
+    left: 7px;
+    top: 12px;
+
+}
+
+.button-main {
+    cursor: pointer;
+    border: none;
+    width: 607.53px;
+    height: 71.64px;
+    top: 53.53px;
+    margin-left: 64.39px;
+    margin-right: 62.08px;
+    background: #23557F;
+    border-radius: 8px;
+}
+
+.button-main:active {
+
+    transform: translateY(4px);
+}
+
+.buttonlast {
+    position: absolute;
+    width: 607.53px;
+    height: 71.64px;
+    bottom: 111.03px;
+    top: 210px;
+    margin-left: -70px;
+}
+
+#Submit {
+    color: #F7FAFC;
+
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center
+}
+
+.back {
+    position: absolute;
+    width: 290px;
+    height: 34px;
+    left: 150px;
+    top: 360px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    color: #23557F;
+
+}

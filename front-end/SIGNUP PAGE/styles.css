@@ -1,0 +1,96 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #fff;
+
+
+}
+
+#formInput {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin-right: -40%;
+    margin-top: -38%;
+    margin-bottom: 0%;
+ 
+}
+
+#formInput label {
+    margin: 5px 10px 5px 0;
+}
+
+.tail button {
+    width: 250px;
+    height: 45px;
+    background: #23557F;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+#formInput input {
+    width: 15%;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.middle img {
+    width: 35%;
+    margin-top: 30px;
+}
+
+.tail {
+    text-align: center;
+    margin-left: 40%;
+}
+
+
+.Submit{
+color: #fff;
+
+}
+@media screen and (max-width: 450px) {
+    #formInput input {
+        width: 50%;
+        align-content: center;
+        margin-left: -3.5cm;
+    }
+
+    #formInput label {
+        margin-left: -3.5cm;
+        text-align: center;
+    }
+
+
+    .middle img {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .formInput button {
+        width: 50%;
+        margin-left: -125px;
+    }
+
+    #formInput p {
+        font-size: 100%;
+        margin-right: 3.5cm;
+    }
+
+    .head img {
+        width: 100%;
+
+    }
+    .tail {
+        text-align: center;
+        margin-left: 3%;
+        margin-top: 10%;
+        
+    }
+    .forms {
+        margin-top: 40%;
+        text-align: center;
+    }
+}

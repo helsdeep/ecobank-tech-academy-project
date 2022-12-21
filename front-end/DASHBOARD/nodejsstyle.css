@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=inter:wght@300&display=swap');
+
+
+.section1{
+    position: absolute;
+    width: 1440px;
+    height: 535px;
+    background-color: #00456E;
+
+
+
+
+
+}
+
+.panel{
+    color: white;
+    font-weight:600;
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    margin-left: 359px;
+    font-size: 24px;
+    margin-top: 66px;
+    
+
+
+}
+
+.profiledetails{
+    display: flex;
+    width: 1200px;
+    margin-left: 120px;
+    justify-content: center;
+    margin-top: -15px;
+   align-items: center;
+}
+
+#pic{
+    height: 100px;
+    width: 100px;
+}
+
+.mybalance{
+    display: flex;
+}
+
+#balimg{
+    height: 20px;
+    width: 25px;
+    margin-top: 47px;
+    margin-left: 8px;
+}
+
+.welcomewrite{
+    color: white;
+    margin-right: 300px;
+    margin-left: 10px;
+}
+
+.balwrite{
+    color: white;
+    margin-left: 30px;
+    
+}
+
+#welcome{
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: -20px;
+    color: #8FEBFF;
+}
+
+#mark{
+    font-size: 55px;
+    font-weight: 900;
+    margin-top: 20px;
+}
+
+#myb{
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: -30px;
+    color: #8FEBFF;
+}
+
+
+
+#N200{
+    font-size: 55px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section2{
+    position: relative;
+    width: 970px;
+    height: 421px;
+    background-color: #E5E5E5;
+    left: 235px;
+    top: 299px;
+    border-radius: 35px;
+    box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+
+
+}
+
+.sec2-1{
+    display: flex;
+    
+    justify-content:center;
+
+}
+
+
+.TandP{
+    display: flex;
+    background-color: white;
+    border-top-left-radius: 60px;
+    margin-top: 32.3px;
+    width: 414px;
+    height: 162px;
+    margin-right: 20px;
+}
+
+
+#transfer{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    border-radius: 30px;
+    margin-left: 33px;
+}
+
+#paybills{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    margin-left: 20px;
+    border-radius: 30px
+    
+}
+
+
+
+
+.BandL{
+
+    display: flex;
+    background-color: white;
+    border-top-left-radius: 60px;
+    width: 414px;
+    margin-top: 32.3px;
+    margin-left: 20px;
+    height: 162px;
+ 
+
+}
+
+
+#buyairtime{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    border-radius: 30px;
+    margin-left: 33px;
+}
+
+#loan{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    margin-left: 20px;
+    border-radius: 30px
+    
+}
+
+
+
+
+.sec2-2{
+    display: flex;
+    border-top: 30px;
+    justify-content:center;
+    
+
+}
+
+.MandV{
+    display: flex;
+    background-color: white;
+    border-top-left-radius: 60px;
+    width: 414px;
+    margin-top: 32.3px;
+    margin-right: 20px;
+    height: 162px;
+
+
+
+}
+
+
+#myservices{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    border-radius: 30px;
+    margin-left: 33px;
+
+}
+
+#virtualcard{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    margin-left: 20px;
+    border-radius: 30px
+
+    
+}
+
+
+
+
+.PandH{
+    display: flex;
+    background-color: white;
+    border-top-left-radius: 60px;
+    width: 414px;
+    margin-top: 32.3px;
+    margin-left: 20px; 
+    height: 162px;
+
+
+
+
+
+}
+
+#pairtopair{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    border-radius: 30px;
+    margin-left: 33px;
+
+}
+
+#history{
+    background-color: #F6F6F6;
+    height: 126px;
+    width: 164px;
+    margin-top: 18px;
+    margin-left: 20px;
+    border-radius: 30px
+
+    
+}
+
+.innerimg{
+    height: 46px;
+    width: 59px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.innerwrite{
+    font-size: 21.5px;
+    margin-left: 15px;
+    margin-top: 0px;
+    font-weight: 400;
+    color: #123F82;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section3{
+    width: 1440px;
+    height: 535px;
+    background-color: #F5F5F5;
+    top: 600px;
+
+
+
+
+
+}
